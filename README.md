@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br><br>🔭 I’m currently working on modern web applications using React, Next.js, Angular, and Firebase, focusing on responsive and scalable UI<br><br>👯 I’m looking to collaborate on frontend and full-stack web development projects<br><br>🤝 I’m looking for help with backend integrations, performance optimization, and scalable architectures<br><br>🌱 I’m currently learning advanced TypeScript, Next.js features, and modern frontend best practices<br><br>💬 Ask me about React, JavaScript, TypeScript, Tailwind CSS, Firebase, Angular, and UI development<br><br>⚡ Fun fact: I enjoy turning ideas into clean, user-friendly web experiences
+:<br><br>🔭 I’m currently working on modern web applications using React, Next.js, Angular, and Firebase, focusing on responsive and scalable UI<br><br>👯 I’m looking to collaborate on frontend and full-stack web development projects<br><br>🤝 I’m looking for help with backend integrations, performance optimization, and scalable architectures<br><br>🌱 I’m currently learning advanced TypeScript, Next.js features, and modern frontend best practices<br><br>💬 Ask me about React, JavaScript, TypeScript, Tailwind CSS, Firebase, Angular, and UI development<br><br>⚡ Fun fact: I enjoy turning ideas into clean, user-friendly web experiences
 
 
 ## 🌐 Socials:
